@@ -3,9 +3,9 @@
   "main.css.map": "team_dashboard_build/static/css/main.b4375561.css.map",
   "main.js": "team_dashboard_build/static/js/main.4c375186.js",
   "main.js.map": "team_dashboard_build/static/js/main.4c375186.js.map",
-  "static/media/arrow_down.svg": "team_dashboard_build/static/media/arrow_down.f131b3f3.svg",
-  "static/media/arrow_up.svg": "team_dashboard_build/static/media/arrow_up.ec692b43.svg",
-  "static/media/delete.svg": "team_dashboard_build/static/media/delete.6a525f66.svg",
-  "static/media/edit.svg": "team_dashboard_build/static/media/edit.19988b51.svg",
-  "static/media/more_vert.svg": "team_dashboard_build/static/media/more_vert.8b51e3c1.svg"
+  "team_dashboard_build/static/media/arrow_down.svg": "team_dashboard_build/static/media/arrow_down.f131b3f3.svg",
+  "team_dashboard_build/static/media/arrow_up.svg": "team_dashboard_build/static/media/arrow_up.ec692b43.svg",
+  "team_dashboard_build/static/media/delete.svg": "team_dashboard_build/static/media/delete.6a525f66.svg",
+  "team_dashboard_build/static/media/edit.svg": "team_dashboard_build/static/media/edit.19988b51.svg",
+  "team_dashboard_build/static/media/more_vert.svg": "team_dashboard_build/static/media/more_vert.8b51e3c1.svg"
 }
